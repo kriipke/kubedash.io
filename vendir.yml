@@ -1,0 +1,85 @@
+# vendir.yml
+directories:
+  # GitHub Actions
+  - path: github-actions/cloudposse-archives-workflows
+    contents:
+      - git:
+          url: https://github.com/cloudposse-archives/github-actions-workflows
+          ref: main
+        depth: 1
+      - git:
+          url: https://github.com/cloudposse/.github
+          ref: main
+        depth: 1
+
+  # Makefiles and Build Harness Modules
+  - path: makefiles/cloudposse-build-harness-modules
+    contents:
+      - git:
+          url: https://github.com/cloudposse/build-harness
+          ref: master
+        depth: 1
+
+  # Helm Charts
+  - path: helm-charts
+    contents:
+      - git:
+          url: https://github.com/cloudposse/charts
+          ref: main
+        depth: 1
+
+  # Terraform Modules and Components
+  - path: terraform/cloudposse-modules
+    contents:
+      - git:
+          url: https://github.com/cloudposse/terraform-aws-components
+          ref: main
+        depth: 1
+      - git:
+          url: https://github.com/cloudposse/terraform-modules
+          ref: main
+        depth: 1
+
+  # Dockerfiles
+  - path: dockerfiles
+    contents:
+      - git:
+          url: https://github.com/cloudposse/packages
+          ref: main
+        includePaths:
+          - "docker/*"
+        depth: 1
+
+  # New Relic Integrations
+  - path: newrelic-integrations
+    contents:
+      - git:
+          url: https://github.com/cloudposse/newrelic-integrations
+          ref: main
+        depth: 1
+
+  # Vault Configurations
+  - path: vault-configurations
+    contents:
+      - git:
+          url: https://github.com/cloudposse/vault-modules
+          ref: main
+        depth: 1
+
+  # Best Practices and Design Decisions
+  - path: best-practices/design-decisions
+    contents:
+      - git:
+          url: https://github.com/cloudposse/docs
+          ref: master
+        includePaths:
+          - "docs/tags/design-decision/*"
+        depth: 2
+
+  # Other Relevant Tools and Practices
+  - path: other-tools-and-practices
+    contents:
+      - git:
+          url: https://github.com/cloudposse/tools
+          ref: main
+        depth: 1
