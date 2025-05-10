@@ -1,0 +1,40 @@
+= DevOps Agent Knowledge Base
+Spencer Smolen <mail@spencersmolen.com>
+v0.1, May 2025
+
+This repository contains curated instructional and illustrative content used to train a multi-agent LLM system capable of generating cohesive, cloud-native, microservice-based DevOps project templates.
+
+== Purpose
+
+The goal of this knowledge base is to teach domain-specific LLM agents to:
+
+- Generate production-ready Helm charts, Dockerfiles, GitHub Actions, and IaC templates
+- Collaborate across domains while sharing consistent architectural conventions
+- Align output with best-in-class practices from proven sources like Cloud Posse
+
+== Domains
+
+Each directory in this repository corresponds to a major DevOps discipline:
+
+* ci-cd/ :: Workflow orchestration, job reusability, and GitHub integration
+* containerization/ :: Docker image building, optimization, and publishing
+* kubernetes-helm/ :: Kubernetes deployment via Helm charts and manifest patterns
+* gitops/ :: Continuous delivery with ArgoCD and Git repository structure
+* infra-code/ :: Terraform module composition and multi-layer IaC
+* cloud-integrations/ :: AWS IAM, networking, and platform-specific patterns
+* observability/ :: Logging, metrics, dashboards, and alert definitions
+* security/ :: Permissions, secrets, CI/CD scan policies
+* scaffolding/ :: End-to-end project blueprints and layout conventions
+
+== Shared Context
+
+The shared/ folder includes architecture overviews, a DevOps glossary, and general conventions that all agents reference for consistency.
+
+== Updating Content
+
+This dataset is periodically refreshed from authoritative sources like `https://docs.cloudposse.com` using automated scraping and Git-based syncing tools.
+
+== License
+
+Content is sourced for research and instructional use only. Refer to upstream documentation licenses for original rights and reuse terms.
+
