@@ -1,0 +1,12 @@
+    git@github.com:DovAmir/awesome-design-patterns
+    git@github.com:donnemartin/system-design-primer
+    git@github.com:goldbergyoni/nodebestpractices
+    git@github.com:mfornos/awesome-microservices
+    https://github.com/kamranahmedse/design-patterns-for-humans
+    https://github.com/mfornos/awesome-microservices
+    https://github.com/webpro/programming-principles
+    https://github.com/tmrts/go-patterns
+    https://github.com/faif/python-patterns
+    https://github.com/binhnguyennus/awesome-scalability
+    https://github.com/binhnguyennus/awesome-scalability
+    https://github.com/vasanthk/react-bits
