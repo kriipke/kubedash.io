@@ -10,3 +10,7 @@
     https://github.com/binhnguyennus/awesome-scalability
     https://github.com/binhnguyennus/awesome-scalability
     https://github.com/vasanthk/react-bits
+    https://api-patterns.org/cheatsheet
+    https://microservice-api-patterns.github.io/MDSL-Specification/
+    https://ozimmer.ch/practices/2023/12/01/ADDefinitionOfReady.html
+    https://adr.github.io/madr/
