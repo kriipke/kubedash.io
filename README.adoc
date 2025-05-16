@@ -2,6 +2,7 @@
 Spencer Smolen <mail@spencersmolen.com>
 v0.1, May 2025
 
+include::docs/best-practices
 This repository contains curated instructional and illustrative content used to train a multi-agent LLM system capable of generating cohesive, cloud-native, microservice-based DevOps project templates.
 
 == Purpose
