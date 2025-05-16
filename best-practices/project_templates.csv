@@ -1,74 +1,74 @@
 Repository,Programming Languages,Project Function/Description
-BytLabs/MicroserviceTemplate,Go,Dockerized microservice template for rapid development
-vmware-tanzu/simple-k8s-webapp,Python,Kubernetes-ready simple web app demo
-GoogleCloudPlatform/cloud-run-microservice-template,Node.js,Microservice template for Google Cloud Run
-berthubert/go-microservice-template,Go,Minimal Go microservice template
-jasontaylordev/CleanArchitecture,C#,Clean architecture template for .NET Core
-okteto/microservices-demo,Multiple (Go, Node.js, Python),Microservices demo app for Kubernetes/Okteto
-ewolff/microservice-kubernetes,Java,Showcase for microservices on Kubernetes
-expressjs/express-api-starter,JavaScript,Starter template for building REST APIs with Express.js
-tiangolo/full-stack-fastapi-postgresql,Python,Full-stack FastAPI + PostgreSQL project template
-strongloop/loopback-next,TypeScript,LoopBack 4 framework for building APIs (Node.js)
-spring-petclinic/spring-petclinic-microservices,Java,Microservices version of Spring Petclinic application
-thomasvitale/microservices-patterns,Java,Repo with microservices architecture patterns (Spring Boot)
-codingpot/practical-microservices,Go,Practical microservices template with gRPC and REST
-GoogleCloudPlatform/kubernetes-engine-samples,Multiple,Kubernetes Engine sample apps and configs
-asyncapi/template-for-microservices,JavaScript,Microservices template using AsyncAPI
-ory/k8s,YAML,Helm charts and Kubernetes manifests for ORY projects
-ory/examples,Multiple,Example apps for ORY (identity, access control) solutions
-teracyhq/dev,Multiple,Development environment for Docker, K8s, Vagrant
-ory/kratos,Go,Identity and authentication system (microservice-ready)
-ory/hydra,Go,OAuth2 and OpenID Connect server (microservice-ready)
-alan2207/bulletproof-react,TypeScript,Production-ready React app template
-kubernetes/examples,Multiple,Official Kubernetes example manifests and apps
-akuity-cluster-addons-workshop/control-plane,Go,Kubernetes control plane workshop resources
-ChristianLempa/boilerplates,Multiple,Various boilerplate templates (Node.js, Python, etc.)
-redhat-cop/infra-ansible,Ansible,Ansible automation for infrastructure
-stefanprodan/podinfo,Go,Microservice for Kubernetes demo and testing
-buchanae/github-release-notes,Python,Generate GitHub release notes from commits
-devspace/awesome-github-templates,Markdown,Curated list of GitHub project templates
-FalcoSuessgott/golang-cli-template,Go,Template project for Go CLI apps
-iwootten/python-pipenv-github,Python,Template for Python projects with Pipenv and GitHub
-devcontainers/templates,JSON/Devcontainer,Templates for VS Code Development Containers
-manekinekko/awesome-devcontainers,Markdown,List of devcontainer templates and tools
-fluxcd/flux2-kustomize-helm-example,YAML,Kustomize + Helm + Flux GitOps Kubernetes example
-kostis-codefresh/many-appsets-demo,YAML,Multiple ArgoCD AppSets demo for Kubernetes
-GoogleCloudPlatform/microservices-demo,Multiple,Cloud-native microservices demo (online boutique)
-cloud-native-toolkit/multi-tenancy-gitops,YAML,Multi-tenancy GitOps toolkit for Kubernetes
-hasura/gitkube,Go,Build and deploy code to Kubernetes via git push
-backstage/backstage,TypeScript,Developer portal for managing infrastructure and microservices
-openrndr/openrndr-template,Kotlin,Template for OPENRNDR creative coding framework
-ionelmc/cookiecutter-pylibrary,Python,Cookiecutter template for Python libraries
-tbakerx/react-resume-template,TypeScript,React-based resume/CV site template
-evrone/go-clean-template,Go,Clean architecture template for Go services
-copilot-extensions/rag-extension,TypeScript,Template for Retrieval-Augmented Generation extensions
-klezVirus/klezVirus.github.io,HTML,Cybersecurity research blog template
-aeksco/react-typescript-web-extension-starter,TypeScript,Starter for browser extensions using React + TypeScript
-donnemartin/system-design-primer,Markdown,Reference repo for learning system design (not a runnable template)
-CircleCI-Public/sample-python-cfd,Python,Sample Python repo with CircleCI config
-TezRomacH/python-package-template,Python,Modern Python package project template
-fastapi/full-stack-fastapi-template,Python,Full-stack template with FastAPI, PostgreSQL, front-end
-tensult/terraform,Terraform,Terraform modules and examples
-actions/toolkit,TypeScript,Reusable libraries for building GitHub Actions
-actions/container-toolkit-action,TypeScript,GitHub Action for managing containers
-JoeArauzo/AsciiDoc-README-Template,AsciiDoc,Template for project README files in AsciiDoc
-vmware/packer-examples-for-vsphere,JSON/Packer,Packer templates for VMware vSphere images
-docker/awesome-compose,YAML,Curated Docker Compose application samples
-roy-pstr/fastapi-serverless-aws-backend-service,Python,FastAPI backend template for AWS Lambda
-wmnnd/nginx-certbot,Shell,Automated Nginx + Let's Encrypt setup
-old-xebis/repository-template,Markdown,Template repo for new GitHub projects
-hashicorp-education/learn-terraform-provision-eks-cluster,Terraform,Tutorial code for provisioning EKS with Terraform
-cloudposse/terraform-aws-eks-cluster,Terraform,Terrraform module for AWS EKS clusters
-aws-samples/eks-workshop-v2,Multiple,EKS workshop materials and templates
-ericsysmin/docker-ansible-images,Dockerfile,Ansible images for Docker
-audreyfeldroy/cookiecutter-pypackage,Python,Cookiecutter template for Python packages
-aws-ia/terraform-aws-eks-blueprints,Terraform,Blueprints for EKS infrastructure as code
-superseb/multipass-k3s,Shell,Multipass + K3s Kubernetes cluster setup
-arashkaffamanesh/kubeadm-multipass,Shell,Multipass + Kubeadm Kubernetes cluster setup
-joshukraine/dotfiles,Shell,Dotfiles for development environment setup
-google/docsy-example,Go,Example website using Docsy Hugo theme
-nginx-proxy/nginx-proxy,Shell/Dockerfile,Automated Nginx reverse proxy for Docker containers
-MagalixCorp/sample-api,Go,Sample REST API server in Go
-boolean-world/appimage-resources,Shell,Resources related to AppImage packaging
-xxh/cookiecutter-xxh-plugin-prerun,Python,Cookiecutter template for xxh plugins
-lacion/cookiecutter-golang,Go,Cookiecutter template for Go projects
+git@github.com:BytLabs/MicroserviceTemplate.git,Go,Dockerized microservice template for rapid development
+git@github.com:vmware-tanzu/simple-k8s-webapp.git,Python,Kubernetes-ready simple web app demo
+git@github.com:GoogleCloudPlatform/cloud-run-microservice-template.git,Node.js,Microservice template for Google Cloud Run
+git@github.com:berthubert/go-microservice-template.git,Go,Minimal Go microservice template
+git@github.com:jasontaylordev/CleanArchitecture.git,C#,Clean architecture template for .NET Core
+git@github.com:okteto/microservices-demo.git,Multiple (Go, Node.js, Python),Microservices demo app for Kubernetes/Okteto
+git@github.com:ewolff/microservice-kubernetes.git,Java,Showcase for microservices on Kubernetes
+git@github.com:expressjs/express-api-starter.git,JavaScript,Starter template for building REST APIs with Express.js
+git@github.com:tiangolo/full-stack-fastapi-postgresql.git,Python,Full-stack FastAPI + PostgreSQL project template
+git@github.com:strongloop/loopback-next.git,TypeScript,LoopBack 4 framework for building APIs (Node.js)
+git@github.com:spring-petclinic/spring-petclinic-microservices.git,Java,Microservices version of Spring Petclinic application
+git@github.com:thomasvitale/microservices-patterns.git,Java,Repo with microservices architecture patterns (Spring Boot)
+git@github.com:codingpot/practical-microservices.git,Go,Practical microservices template with gRPC and REST
+git@github.com:GoogleCloudPlatform/kubernetes-engine-samples.git,Multiple,Kubernetes Engine sample apps and configs
+git@github.com:asyncapi/template-for-microservices.git,JavaScript,Microservices template using AsyncAPI
+git@github.com:ory/k8s.git,YAML,Helm charts and Kubernetes manifests for ORY projects
+git@github.com:ory/examples.git,Multiple,Example apps for ORY (identity, access control) solutions
+git@github.com:teracyhq/dev.git,Multiple,Development environment for Docker, K8s, Vagrant
+git@github.com:ory/kratos.git,Go,Identity and authentication system (microservice-ready)
+git@github.com:ory/hydra.git,Go,OAuth2 and OpenID Connect server (microservice-ready)
+git@github.com:alan2207/bulletproof-react.git,TypeScript,Production-ready React app template
+git@github.com:kubernetes/examples.git,Multiple,Official Kubernetes example manifests and apps
+git@github.com:akuity-cluster-addons-workshop/control-plane.git,Go,Kubernetes control plane workshop resources
+git@github.com:ChristianLempa/boilerplates.git,Multiple,Various boilerplate templates (Node.js, Python, etc.)
+git@github.com:redhat-cop/infra-ansible.git,Ansible,Ansible automation for infrastructure
+git@github.com:stefanprodan/podinfo.git,Go,Microservice for Kubernetes demo and testing
+git@github.com:buchanae/github-release-notes.git,Python,Generate GitHub release notes from commits
+git@github.com:devspace/awesome-github-templates.git,Markdown,Curated list of GitHub project templates
+git@github.com:FalcoSuessgott/golang-cli-template.git,Go,Template project for Go CLI apps
+git@github.com:iwootten/python-pipenv-github.git,Python,Template for Python projects with Pipenv and GitHub
+git@github.com:devcontainers/templates.git,JSON/Devcontainer,Templates for VS Code Development Containers
+git@github.com:manekinekko/awesome-devcontainers.git,Markdown,List of devcontainer templates and tools
+git@github.com:fluxcd/flux2-kustomize-helm-example.git,YAML,Kustomize + Helm + Flux GitOps Kubernetes example
+git@github.com:kostis-codefresh/many-appsets-demo.git,YAML,Multiple ArgoCD AppSets demo for Kubernetes
+git@github.com:GoogleCloudPlatform/microservices-demo.git,Multiple,Cloud-native microservices demo (online boutique)
+git@github.com:cloud-native-toolkit/multi-tenancy-gitops.git,YAML,Multi-tenancy GitOps toolkit for Kubernetes
+git@github.com:hasura/gitkube.git,Go,Build and deploy code to Kubernetes via git push
+git@github.com:backstage/backstage.git,TypeScript,Developer portal for managing infrastructure and microservices
+git@github.com:openrndr/openrndr-template.git,Kotlin,Template for OPENRNDR creative coding framework
+git@github.com:ionelmc/cookiecutter-pylibrary.git,Python,Cookiecutter template for Python libraries
+git@github.com:tbakerx/react-resume-template.git,TypeScript,React-based resume/CV site template
+git@github.com:evrone/go-clean-template.git,Go,Clean architecture template for Go services
+git@github.com:copilot-extensions/rag-extension.git,TypeScript,Template for Retrieval-Augmented Generation extensions
+git@github.com:klezVirus/klezVirus.github.io.git,HTML,Cybersecurity research blog template
+git@github.com:aeksco/react-typescript-web-extension-starter.git,TypeScript,Starter for browser extensions using React + TypeScript
+git@github.com:donnemartin/system-design-primer.git,Markdown,Reference repo for learning system design (not a runnable template)
+git@github.com:CircleCI-Public/sample-python-cfd.git,Python,Sample Python repo with CircleCI config
+git@github.com:TezRomacH/python-package-template.git,Python,Modern Python package project template
+git@github.com:fastapi/full-stack-fastapi-template.git,Python,Full-stack template with FastAPI, PostgreSQL, front-end
+git@github.com:tensult/terraform.git,Terraform,Terraform modules and examples
+git@github.com:actions/toolkit.git,TypeScript,Reusable libraries for building GitHub Actions
+git@github.com:actions/container-toolkit-action.git,TypeScript,GitHub Action for managing containers
+git@github.com:JoeArauzo/AsciiDoc-README-Template.git,AsciiDoc,Template for project README files in AsciiDoc
+git@github.com:vmware/packer-examples-for-vsphere.git,JSON/Packer,Packer templates for VMware vSphere images
+git@github.com:docker/awesome-compose.git,YAML,Curated Docker Compose application samples
+git@github.com:roy-pstr/fastapi-serverless-aws-backend-service.git,Python,FastAPI backend template for AWS Lambda
+git@github.com:wmnnd/nginx-certbot.git,Shell,Automated Nginx + Let's Encrypt setup
+git@github.com:old-xebis/repository-template.git,Markdown,Template repo for new GitHub projects
+git@github.com:hashicorp-education/learn-terraform-provision-eks-cluster.git,Terraform,Tutorial code for provisioning EKS with Terraform
+git@github.com:cloudposse/terraform-aws-eks-cluster.git,Terraform,Terrraform module for AWS EKS clusters
+git@github.com:aws-samples/eks-workshop-v2.git,Multiple,EKS workshop materials and templates
+git@github.com:ericsysmin/docker-ansible-images.git,Dockerfile,Ansible images for Docker
+git@github.com:audreyfeldroy/cookiecutter-pypackage.git,Python,Cookiecutter template for Python packages
+git@github.com:aws-ia/terraform-aws-eks-blueprints.git,Terraform,Blueprints for EKS infrastructure as code
+git@github.com:superseb/multipass-k3s.git,Shell,Multipass + K3s Kubernetes cluster setup
+git@github.com:arashkaffamanesh/kubeadm-multipass.git,Shell,Multipass + Kubeadm Kubernetes cluster setup
+git@github.com:joshukraine/dotfiles.git,Shell,Dotfiles for development environment setup
+git@github.com:google/docsy-example.git,Go,Example website using Docsy Hugo theme
+git@github.com:nginx-proxy/nginx-proxy.git,Shell/Dockerfile,Automated Nginx reverse proxy for Docker containers
+git@github.com:MagalixCorp/sample-api.git,Go,Sample REST API server in Go
+git@github.com:boolean-world/appimage-resources.git,Shell,Resources related to AppImage packaging
+git@github.com:xxh/cookiecutter-xxh-plugin-prerun.git,Python,Cookiecutter template for xxh plugins
+git@github.com:lacion/cookiecutter-golang.git,Go,Cookiecutter template for Go projects
